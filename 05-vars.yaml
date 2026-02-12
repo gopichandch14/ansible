@@ -1,8 +1,8 @@
 - name: play level variables
-  host: local
+  hosts: local
   connection: local
   vars:
-    COURCE: "Devops with aws"
+    COURSE: "Devops with aws"
     DURATION: "140hrs"
     TRAINER: "Siva"
   tasks:
